@@ -1,0 +1,74 @@
+body {
+  background: blueviolet;
+  margin: 40px;
+  width: auto;
+  max-width: 1200px;
+}
+form {
+  background: white;
+  padding: 10px 25px;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+input {
+  background: lightgray;
+  border: none;
+  padding: 10px 5px;
+  border-radius: 5px solid lightgray;
+  width: 220px;
+}
+#names {
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+#fname,#lname {
+  width: 103px;
+}
+h2 {
+  border-bottom: 1px solid lightgrey;
+}
+#text {
+  margin-bottom: 10px;
+  font-size: 11px;
+  font-family: arial;
+  color: lightgray;
+  font-weight: bold;
+}
+#pp {
+  width: 3px;
+}
+#checkbox {
+  background-color: lightgrey;
+  width: 20px;
+  accent-color: blueviolet;align-items: 
+}
+#submit {
+  background: blueviolet;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 2px;
+  padding: 6px 35px;
+}
+#on {
+  font-size: 10px;
+  display: inline;
+  color: lightgrey;
+  font-weight: bold;
+}
+#on a {
+  text-decoration: none;
+}
+#login {
+  color: white;
+  text-align: center;
+  font-size: 13px;
+}
+#off a {
+  color: white;
+}
+#submit a {
+  text-decoration: none;
+  color: white;
+}
